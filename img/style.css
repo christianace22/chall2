@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #000;
+    background-color: #fff;
+  }
+
+  .nazumah{
+     display: block;
+    width: 100%;
+    height: auto;
+   
+  }
+  .text{
+    text-align: center;
+    padding: 40px 20px;
+  }
+  .color{
+    color:darkred;
+  }
+
+  .circle{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  .skills {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+
+  .skillset{
+    text-align: center;
+    max-width: 200px;
+  }
+
+  .footer {
+    background-color: maroon;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .footer a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+  }
+
+  .button{
+    background-color: maroon;
+    color: white;
+    padding: 10px 20px;
+    
+    margin-top: 10px;
+    cursor: pointer;
+  }
